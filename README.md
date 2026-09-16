@@ -8,3 +8,4 @@ is kept in a private repository. All content is proprietary — see [LICENSE](LI
 Copying, redistributing, or re-hosting this build is not permitted.
 
 Single-player only on web; co-op is available in the Windows build.
+Plays on phones too (landscape): on-screen controls appear automatically on touch devices.
