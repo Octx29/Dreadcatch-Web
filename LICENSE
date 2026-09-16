@@ -1,0 +1,28 @@
+Dreadcatch — Proprietary License
+Copyright (c) 2026 Octx29. All Rights Reserved.
+
+This repository contains the source code, assets, and design documents of the
+game "Dreadcatch" (the "Software").
+
+1. No license is granted. You may NOT copy, reproduce, modify, distribute,
+   sublicense, sell, publicly display, publicly perform, or create derivative
+   works of the Software, in whole or in part, without the prior written
+   permission of the copyright holder.
+
+2. Access to this repository (for example, as an invited collaborator) does
+   not grant any right to use the Software outside the scope explicitly
+   agreed with the copyright holder.
+
+3. Third-party components. Files under "Packages/" (including
+   com.unity.transport) and any packages resolved via
+   Packages/manifest.json are the property of their respective owners and are
+   provided under their own license terms (for example, the Unity Companion
+   License). This proprietary license does not apply to them.
+
+4. Trademarks. "Dreadcatch" and associated logos, names, and artwork are
+   trademarks of the copyright holder and may not be used without permission.
+
+5. Disclaimer. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+Unauthorized copying or distribution of this Software may result in civil
+and/or criminal liability under applicable copyright law.
